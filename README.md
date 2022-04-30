@@ -1,4 +1,4 @@
-### Whassup! It's Aditya 👋
+<img src="https://github.com/YusiferZendric/MyEfiConfig/blob/portfolio/title.png">
 
 - 🔭 I’m currently working on my skills for competitive programming
 - 🌱 I’m currently learning C++ 🤖
