@@ -4,7 +4,7 @@ Hi 👋 My name is Aditya Singh
 Web, Python, Data Science learner
 ---------------------------------
 
-I've been learning to code for 2 years now. Currently I am in High School and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python as well as in Web as well...
+I've been learning to code for 2 years now. Currently I am in High School and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [yzendric@gmail.com](mailto:yzendric@gmail.com)
