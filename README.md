@@ -1,16 +1,16 @@
 Hi 👋 My name is Aditya Singh
 =============================
 
-Web, Python, Data Science learner
+Web and Python Programmer
 ---------------------------------
 
 I've been learning to code for 2 years now. Currently I am in High School and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [yzendric@gmail.com](mailto:yzendric@gmail.com)
-* 🚀  I'm currently working on [TextUtils](http://yusiferzendric.github.io/TextUtils)
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Python projects, Flask-based web app etc
+* 🚀  I'm currently mastering Django for Web Backend
+* 🧠  I'm learning React.js for Web Frontend
+* 🤝  I'm open to collaborating on Python projects, Web apps and utitlies etc
 
 <a href="https://www.github.com/YusiferZendric" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YusiferZendric?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
