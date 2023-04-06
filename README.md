@@ -4,12 +4,12 @@ Hi 👋 My name is Aditya Singh
 Web and Python Programmer
 ---------------------------------
 
-I've been learning to code for 2 years now. Currently I am in High School and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
+I've been learning to code for 2 years now (on hiatus because of Exam preparation). Currently I am in Grade 12 and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
 
 * 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [yzendric@gmail.com](mailto:yzendric@gmail.com)
-* 🚀  I'm currently mastering Django for Web Backend
-* 🧠  I'm learning React.js for Web Frontend
+* ✉️  You can contact me at [adityasenpai396@gmail.com](mailto:adityasenpai396@gmail.com)
+* 🚀  I'm currently mastering Prompt Engineering 🤡
+* 🧠  I'm learning web technologies
 * 🤝  I'm open to collaborating on Python projects, Web apps and utitlies etc
 
 <a href="https://www.github.com/YusiferZendric" target="_blank" rel="noreferrer"><img
