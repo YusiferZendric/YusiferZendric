@@ -4,7 +4,7 @@ Hi 👋 My name is Aditya Singh
 Web and Python Programmer
 ---------------------------------
 
-I've been learning to code for 2 years now (on hiatus because of Exam preparation). Currently I am in Grade 12 and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
+I've been learning to code for 2 years now. Currently I am in Grade 10 and very much interested in Data Science to pursue as a career option. I have been making a wide variety of projects in python and Web as well...
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [mail](mailto:adityasenpai396@gmail.com)
