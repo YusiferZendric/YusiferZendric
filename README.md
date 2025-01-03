@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | ML & AI Enthusiast | Web3 Explorer
 
-I'm a Computer Science student at KIET Group of Institutions with a passion for building innovative solutions using technology. Currently exploring Web3 & blockchain while honing my skills in AI workflow integration and machine learning applications.
+I'm a Computer Science student with a passion for building innovative solutions using technology. Currently exploring Web3 & blockchain while honing my skills in AI workflow integration and machine learning applications.
 
 * 🎓 Pursuing B.Tech in Computer Science (2024-2028)
 * 🌍 Based in Delhi, India
